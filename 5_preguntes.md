@@ -20,7 +20,7 @@ Quan busco una llibreria a GitHub, el primer que miro és el README. Si està be
 
 Els avantatges que veig són que el pots veure directament a GitHub sense instal·lar res, que amb els títols i les llistes es llegeix més ràpid, i que els exemples de codi els pots copiar directament. També, com que és text, Git guarda l'historial i es poden veure els canvis. I si el README està bé, et dona més confiança per decidir si la llibreria et serveix.
 
-Un PDF pesa més, no el pots editar fàcilment i al mòbil es veu malament. Un XML ple d'etiquetes és un rotllo de llegir per a una persona.
+Un PDF pesa més, no el pots editar fàcilment i al mòbil es veu malament. Un XML ple d'etiquetes és pesat de llegir per a una persona.
 
 ## 8. XML o Markdown en cada cas?
 
